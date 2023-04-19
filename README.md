@@ -10,7 +10,7 @@
 
 - ♂️ My name is Dede Kurniawan
 - ⛩️ I am Blogger!
-- 🤠 I am 24 years old ◉‿◉
+- 😅 I am 24 years old ◉‿◉
 </p>
 
 ------
@@ -20,7 +20,7 @@
   <a href="https://wa.me/6285892734104"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/ClanDare"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/ClanDare"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/badge/YouTube-ClanDare-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ClanDare" /><br>
+  <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/badge/YouTube-ClanDare-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@ClanDare" /><br>
   <a name=CraXID&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/CraXID"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/youtube/channel/subscribers/UCGSp6Q-7PC0pR8K2CFKBm3A?style=social" /> <br>
@@ -50,7 +50,7 @@
 ### My Projects 🔭
 <a href="https://github.com/CraXID/rairu-kun">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=rairu-kun&theme=dark)</a>
 <a href="https://github.com/CraXID/gooshe-kun">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=gooshe-kun&theme=nightowl)</a>
-<a href="https://github.com/CraXID/akebi-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=akebi-bot&theme=dark)</a>
+<!--<a href="https://github.com/CraXID/akebi-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=akebi-bot&theme=dark)</a>-->
 <!--<a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>-->
 <!--<a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>-->
 <!--<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>-->
@@ -59,9 +59,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/OS-Android-blue?&logo=Android" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=Xcode" />
+    <img src="https://img.shields.io/badge/Featherpad-blue?&logo=Featherpad&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 <details>
