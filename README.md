@@ -10,7 +10,7 @@
 
 - ♂️ My name is Dede Kurniawan
 - ⛩️ I am Blogger!
-- 😅 I am 24 years old ◉‿◉
+- 😅 I am 24 years old
 </p>
 
 ------
@@ -29,7 +29,7 @@
 
 ### My Waifu 😼
 <p align="center">
-  <img src="https://crax.my.id/wp-content/uploads/akebi2.jpg" />
+  <img src="https://genix.eu.org/akebi.png" />
 </p>
 
 ------
