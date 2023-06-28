@@ -10,7 +10,7 @@
 
 - ♂️ My name is Dede Kurniawan
 - ⛩️ I am Blogger!
-- 😅 I am 24 years old
+- 😎 I am 24 years old
 </p>
 
 ------
@@ -27,9 +27,9 @@
   <!--<a href="https://komarev.com/ghpvc/?username=CraXID&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=CraXID&color=green&style=flat-square&label=Profile+View"></a>-->
 </p>
 
-### My Waifu 😼
+### My Bebeb 🥰
 <p align="center">
-  <img src="https://genix.eu.org/akebi.png" />
+  <img src="https://i.pinimg.com/originals/a4/89/65/a48965ee7398376ead07c0d8cf59e02f.jpg" />
 </p>
 
 ------
