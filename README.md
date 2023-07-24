@@ -2,9 +2,7 @@
 
 
 <h4 align="center"> Assalamualaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="15px" alt=""><br></h4>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ad/d7/55/add7554a42bd1eecef022baa20cf4061.gif" />
-</p>
+
 
 <p align="center">
 
@@ -41,7 +39,13 @@
 </p>
 
 ------
+### Random Anime ⛩️
 
+<p align="center">
+  <img src="https://pic.re/image" />
+</p>
+
+------
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/CraXID"><img src="https://github-readme-stats.vercel.app/api?username=CraXID&show_icons=true&theme=radical"></a></p>
