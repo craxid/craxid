@@ -42,7 +42,7 @@
 ### Random Anime ⛩️
 
 <p align="center">
-  <img src="https://pic.re/image" />
+  <img src="https://api.anna.biz.id/api/anime/random" />
 </p>
 
 ------
