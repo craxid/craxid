@@ -1,14 +1,13 @@
 
 
 
-<h4 align="center"> Assalamualaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="15px" alt=""><br></h4>
+<h4 align="center"> السلام عليكم ورحمة الله وبركاته <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="15px" alt=""><br></h4>
 
 
 <p align="center">
 
-- ♂️ My name is Dede Kurniawan
-- ⛩️ I am Blogger!
-- 😎 I am 24 years old
+- ♂️ Dede Kurniawan
+- 🧓 25 years old
 </p>
 
 ------
@@ -27,7 +26,7 @@
 
 ### My Bebeb 🥰
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/89/65/a48965ee7398376ead07c0d8cf59e02f.jpg" />
+  <img src="https://btch.pages.dev/file/21e0f89d26bbe704fe77a.jpg" />
 </p>
 
 ------
@@ -39,11 +38,11 @@
 </p>
 
 ------
-### Random Anime ⛩️
+<!--### Random Anime ⛩️
 
 <p align="center">
-  <img src="https://api.anna.biz.id/api/anime/random" />
-</p>
+  <img src="https://api.anime/random" />
+</p>-->
 
 ------
 ### Github Stats 🚀
