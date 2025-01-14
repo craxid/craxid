@@ -14,8 +14,8 @@
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/dede_klender"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285892734104"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/ClanDare"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://wa.me/6285183199976"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/dede2015k"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/ClanDare"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/badge/YouTube-ClanDare-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@ClanDare" /><br>
   <a name=CraXID&label=VIEWS&style=flat-square&color=orange" />
@@ -26,7 +26,7 @@
 
 ### My Bebeb 🥰
 <p align="center">
-  <img src="https://btch.pages.dev/file/21e0f89d26bbe704fe77a.jpg" />
+  <img src="https://files.catbox.moe/29v6dj.jpg" />
 </p>
 
 ------
@@ -37,7 +37,6 @@
   <a href="https://open.spotify.com/track/0n10Fd6ngamS1IvYKrONpm" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-------
 <!--### Random Anime ⛩️
 
 <p align="center">
