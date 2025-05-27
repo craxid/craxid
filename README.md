@@ -26,7 +26,7 @@
 
 ### My Bebeb 🥰
 <p align="center">
-  <img src="https://files.catbox.moe/29v6dj.jpg" />
+  <img src="https://github.com/craxid.png" />
 </p>
 
 ------
