@@ -39,7 +39,7 @@
 <!--### Random Anime ⛩️
 
 <p align="center">
-  <img src="https://api.anime/random" />
+  <img src="https://pic.re/image" />
 </p>-->
 
 ------
