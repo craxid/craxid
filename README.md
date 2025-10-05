@@ -30,7 +30,7 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-id/track/5cLBqoblPJague9WgPK5Xp" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ### Random Anime ⛩️
