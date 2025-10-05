@@ -36,11 +36,11 @@
   <a href="https://open.spotify.com/track/0n10Fd6ngamS1IvYKrONpm" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-<!--### Random Anime ⛩️
+### Random Anime ⛩️
 
 <p align="center">
   <img src="https://pic.re/image" />
-</p>-->
+</p>
 
 ------
 ### Github Stats 🚀
