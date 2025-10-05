@@ -1,6 +1,3 @@
-
-
-
 <h4 align="center"> السلام عليكم ورحمة الله وبركاته <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="15px" alt=""><br></h4>
 
 
@@ -14,7 +11,7 @@
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/dede_klender"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285183199976"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/6285892734104"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/dede2015k"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/ClanDare"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/badge/YouTube-ClanDare-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@ClanDare" /><br>
@@ -24,9 +21,9 @@
   <!--<a href="https://komarev.com/ghpvc/?username=CraXID&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=CraXID&color=green&style=flat-square&label=Profile+View"></a>-->
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/craxid.png" />
-</p>
+</p>-->
 
 ------
 
