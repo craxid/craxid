@@ -24,7 +24,6 @@
   <!--<a href="https://komarev.com/ghpvc/?username=CraXID&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=CraXID&color=green&style=flat-square&label=Profile+View"></a>-->
 </p>
 
-### My Bebeb 🥰
 <p align="center">
   <img src="https://github.com/craxid.png" />
 </p>
