@@ -1,77 +1,55 @@
-<h4 align="center"> السلام عليكم ورحمة الله وبركاته <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="15px" alt=""><br></h4>
-
-
-<p align="center">
-
-- ♂️ Dede Kurniawan
-- 🧓 26 years old
-</p>
-
-------
-### Connect with me ☎️
-<p align="center">
-  <a href="https://instagram.com/dede_klender"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285892734104"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/dede2015k"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/ClanDare"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/badge/YouTube-ClanDare-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@ClanDare" /><br>
-  <a name=CraXID&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/CraXID"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/c/ClanDare"><img src="https://img.shields.io/youtube/channel/subscribers/UCGSp6Q-7PC0pR8K2CFKBm3A?style=social" /> <br>
-  <!--<a href="https://komarev.com/ghpvc/?username=CraXID&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=CraXID&color=green&style=flat-square&label=Profile+View"></a>-->
-</p>
-
-<!--<p align="center">
-  <img src="https://github.com/craxid.png" />
-</p>-->
-
-------
-
-### Spotify Playing 🎧
+<h1 align="center">🧪 Hi, I'm Dede K.</h1>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff99&center=true&width=520&lines=Backend+Developer;AI+Bot+Builder" alt="Typing SVG" />
 </p>
-
-### Random Anime ⛩️
 
 <p align="center">
-  <img src="https://pic.re/image" />
+  <img  src="https://count.getloli.com/get/@craxid?theme=asoul" alt="Visitor counter" />
 </p>
-
-------
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/CraXID"><img src="https://github-readme-stats.vercel.app/api?username=CraXID&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/CraXID"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraXID&theme=radical&layout=compact"></a></p> 
-
-### My Projects 🔭
-<a href="https://github.com/CraXID/rairu-kun">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=rairu-kun&theme=dark)</a>
-<a href="https://github.com/CraXID/gooshe-kun">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=gooshe-kun&theme=nightowl)</a>
-<!--<a href="https://github.com/CraXID/akebi-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CraXID&repo=akebi-bot&theme=dark)</a>-->
-<!--<a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>-->
-<!--<a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>-->
-<!--<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>-->
-<!--<a href="https://github.com/FatihArridho/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>-->
-
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Android-blue?&logo=Android" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=Xcode" />
-    <img src="https://img.shields.io/badge/Featherpad-blue?&logo=Featherpad&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+  <a href="https://github.com/craxid"><img src="https://img.shields.io/badge/Website-0000ff?style=plastic&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://x.com/dede_klender"><img src="https://img.shields.io/badge/Twitter/X-0000ff?style=plastic&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/dede_klender"><img src="https://img.shields.io/badge/Instagram-0000ff?style=plastic&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:dev@crax.my.id"><img src="https://img.shields.io/badge/Email-0000ff?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=CraXID)
+## 🧪 About Me
 
-</details>
+Gtw mw diisi aph
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+- 🌐 Website: https://github.com/craxid
+- 🐦 Twitter/X: https://x.com/dede_klender
+- 📸 Instagram: https://instagram.com/dede_klender
+- ✉️ Email: dev@crax.my.id
+- 📍 Location: Indonesia
 
-<!--![Metrics](https://metrics.lecoq.io/CraXID?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)-->
+## ⚙️ Tech Stack
 
-</details> 
+![Node.js](https://img.shields.io/badge/Node.js-0000ff?style=plastic&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0000ff?style=plastic&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0000ff?style=plastic&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0000ff?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0000ff?style=plastic&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0000ff?style=plastic&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0000ff?style=plastic&logo=expressdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0000ff?style=plastic&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0000ff?style=plastic&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0000ff?style=plastic&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0000ff?style=plastic&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0000ff?style=plastic&logo=aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0000ff?style=plastic&logo=nginx&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0000ff?style=plastic&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0000ff?style=plastic&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0000ff?style=plastic&logo=linux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0000ff?style=plastic&logo=vite&logoColor=white)
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img  src="https://streak-stats.demolab.com?user=craxid&theme=github_dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
