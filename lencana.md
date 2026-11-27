@@ -1,1 +1,0 @@
-Catatan sementara untuk lencana.
