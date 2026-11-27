@@ -80,6 +80,12 @@ Developer from East Jakarta, Indonesia. I build native Android apps, WhatsApp bo
   <img src="https://streak-stats.demolab.com?user=craxid&theme=github_dark&hide_border=true" alt="GitHub streak" />
 </p>
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://readmefx.potenfyr.in/trophy?username=craxid" alt="Trophies" />
+</p>
+
 ---
 
 <p align="center">
